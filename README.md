@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-page-using-html-css-flexbox-and-mediaquerry-BWzUmaXTHh]
 - Live Site URL: [https://ifafaa.github.io/social-proof-section-project/]
 
 
