@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/desktop-scheenshot.png)
+![](./screenshots/desktop-screenshot.png)
 ![](./screenshots/mobile-screenshot-1.jpeg)
 ![](./screenshots/mobile-screenshot-2.jpeg)
 
@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: []
-- Live Site URL: []
+- Live Site URL: [https://ifafaa.github.io/social-proof-section-project/]
 
 
 ### Built with
